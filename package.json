@@ -4,7 +4,7 @@
   "description": "collect header and body info of a http request, and print info ",
   "main": "index.js",
   "scripts": {
-    "live": "nodemon index.js" ,
+    "live": "nodemon index.js 0.0.0.0" ,
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "cchang62",
