@@ -16,6 +16,6 @@ npm run live
 
 ## Ref
 
-<https://github.com/remy/nodemon>
-<https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/>
+- <https://github.com/remy/nodemon>
+- <https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/>
 
